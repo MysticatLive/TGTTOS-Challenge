@@ -1,0 +1,97 @@
+tgttos:
+  settings:
+    block: PINK_WOOL
+    glass: PINK_STAINED_GLASS
+  game:
+    map1:
+      start:
+        x: 11
+        y: 44
+        z: 8
+        pitch: 32.38837
+        yaw: 90.11794
+        world: world
+      glass1:
+        x: 6
+        y: 44
+        z: 1
+        pitch: 89.28244
+        yaw: 180.1215
+        world: world
+      glass2:
+        x: 6
+        y: 47
+        z: 15
+        pitch: 61.707283
+        yaw: 267.56158
+        world: world
+      mode: build
+      corner1:
+        x: 20
+        y: 18
+        z: -17
+        pitch: -20.815443
+        yaw: 46.35968
+        world: world
+      corner2:
+        x: -78
+        y: 74
+        z: 40
+        pitch: 30.953241
+        yaw: 235.47708
+        world: world
+      seconds: 120
+      finish:
+        x: -62
+        y: 33
+        z: 7
+        pitch: 17.319096
+        yaw: 272.1742
+        world: world
+    map2:
+      start:
+        x: -64
+        y: 31
+        z: 150
+        pitch: 18.138527
+        yaw: 270.5872
+        world: world
+      glass1:
+        x: -60
+        y: 31
+        z: 148
+        pitch: 46.226913
+        yaw: 353.9252
+        world: world
+      glass2:
+        x: -60
+        y: 32
+        z: 153
+        pitch: 38.025925
+        yaw: 358.43558
+        world: world
+      mode: trident
+      finish:
+        x: 21
+        y: 84
+        z: 151
+        pitch: 19.266487
+        yaw: 89.15646
+        world: world
+      seconds: 60
+  spawn:
+    x: -26
+    y: 39
+    z: 60
+    pitch: 38.949215
+    yaw: 0.9287813
+    world: world
+  tgttos:
+    game:
+      map2:
+        x: -64
+        y: 31
+        z: 150
+        pitch: 18.138527
+        yaw: 270.5872
+        world: world

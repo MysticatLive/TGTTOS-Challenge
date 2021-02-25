@@ -1,0 +1,18 @@
+name: TGTTOS
+version: 1.0
+api-version: 1.16
+author: Mysticat
+main: me.mysticat.tgttos.Main
+description: Practice for learning Kotlin!
+
+commands:
+  start:
+    description: Test out the plugin! (requires map setup)
+  set:
+    description: Set up parameters for your own map!
+  delete:
+    description: Remove a created map!
+  maps:
+    description: List all maps!
+  end:
+    description: Ends a game!
